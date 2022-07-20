@@ -10,6 +10,18 @@ d = {
     "surname":"yadav"
 
 }
+d1 = {
+    "name":"aj1",
+    "mailID":"aj1@ineuron.ai",
+    "surname":"yadav1"
+
+}
+d2 = {
+    "name":"aj2",
+    "mailID":"aj2@ineuron.ai",
+    "surname":"yadav2"
+
+}
 
 db1 = client['mongotest']
 coll = db1['test']
